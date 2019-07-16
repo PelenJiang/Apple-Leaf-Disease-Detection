@@ -1,0 +1,8 @@
+--2019-06-25 21:16:10--  http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar
+Resolving host.robots.ox.ac.uk (host.robots.ox.ac.uk)... 129.67.94.152
+Connecting to host.robots.ox.ac.uk (host.robots.ox.ac.uk)|129.67.94.152|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460032000 (439M) [application/x-tar]
+Saving to: ‘VOCtrainval_06-Nov-2007.tar’
+
+VOCtrainval_06-Nov-2007.tar                           0%[                                                                                                                   ] 383.84K  11.9 B/s    eta 111d   

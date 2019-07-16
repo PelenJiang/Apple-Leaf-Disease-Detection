@@ -1,0 +1,30 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Alternaria_Boltch"
+  label: 1
+  display_name: "Alternaria_Boltch"
+}
+item {
+  name: "Brown_Spot"
+  label: 2
+  display_name: "Brown_Spot"
+}
+item {
+  name: "Mosaic"
+  label: 3
+  display_name: "Mosaic"
+}
+item {
+  name: "Grey_Spot"
+  label: 4
+  display_name: "Grey_Spot"
+}
+item {
+  name: "Rust"
+  label: 5
+  display_name: "Rust"
+}
